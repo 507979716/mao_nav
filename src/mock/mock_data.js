@@ -35,11 +35,11 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "id": "site-1769131142007",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png"
         }
       ]
     },
