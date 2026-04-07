@@ -21,6 +21,13 @@ export const mockData = {
           "icon": "/sitelogo/linux.do.ico"
         },
         {
+          "id": "site-1769131142007",
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "",
+          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png"
+        },
+        {
           "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
@@ -35,11 +42,16 @@ export const mockData = {
           "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "site-1769131142007",
-          "name": "Perplexity",
-          "url": "https://www.perplexity.ai/",
-          "description": "",
-          "icon": "https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png"
+          "id": "site-1775557345006",
+          "name": "Hack-games",
+          "url": "https://www.hack-games.com/",
+          "description": "\n"
+        },
+        {
+          "id": "site-1775557393598",
+          "name": "飞书懒人链接",
+          "url": "https://my.feishu.cn/docx/JcokdnL8woG8RaxEe26cajMAnCe",
+          "description": ""
         }
       ]
     },
