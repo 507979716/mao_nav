@@ -493,5 +493,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱"
+  "title": "猫猫导航🐱",
+  "_fileSha": "f8b24ac0e702f78cc904139add5c5edc1f5d7652",
+  "search": "duckduckgo"
 }
